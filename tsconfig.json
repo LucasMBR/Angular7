@@ -21,6 +21,7 @@
     "lib": [
       "es2020",
       "dom"
+
     ]
   },
   "angularCompilerOptions": {
@@ -28,5 +29,6 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true
-  }
+  },
+  //"strictPropertyInitialization": false
 }
